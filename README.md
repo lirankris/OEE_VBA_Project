@@ -9,7 +9,7 @@ Every division have its attributs (diffrent pace, substance type etc.)
 In the future I will add vision sysytem status and 2D camera check.
 
 
-![](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main.jpg | width=100)
+![](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main.jpg)
 
 ![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_cout_delta.jpg)
 
