@@ -63,6 +63,7 @@ In the future I will add vision sysytem status and 2D camera check.
 
 ![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_total_sum_and_count.jpg)
 
+
 # next goal:
 
 <img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500"> 
