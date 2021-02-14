@@ -16,7 +16,7 @@ In the future I will add vision sysytem status and 2D camera check.
 - [ ] Pdf generator.
 - [ ] UI/UX.
 
-## Main sheet:
+# Main sheet:
 
 - Weight check total sum\weight\over_weight per item (bottels\box\pallet).
 - Vision system.
@@ -25,13 +25,11 @@ In the future I will add vision sysytem status and 2D camera check.
 
 ![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main.jpg)
 
-## Box sheet (statistical analysis):
+# Box sheet (statistical analysis):
 
 - Out of range weights of bottels\box\pallet (% count).
 - Out of range weights of bottels\box\pallet (count)
 - Delta of time between two items (count & time diffrance).
-
-![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_cout_delta.jpg)
 
 
 ### Time bar:
