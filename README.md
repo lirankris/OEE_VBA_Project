@@ -23,7 +23,7 @@ In the future I will add vision sysytem status and 2D camera check.
 - Zetes(camera) 2D GS1 reader.
 - General.
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main.jpg)
 
 ## Box sheet (statistical analysis):
 
@@ -31,7 +31,7 @@ In the future I will add vision sysytem status and 2D camera check.
 - Out of range weights of bottels\box\pallet (count)
 - Delta of time between two items (count & time diffrance).
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_cout_delta.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_cout_delta.jpg)
 
 
 ### Time bar:
@@ -41,24 +41,32 @@ In the future I will add vision sysytem status and 2D camera check.
 - Stop of the batch.
 - Todays date.
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/time.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/time.jpg)
 
 
 ### Out of range items (more\less then target weight) (statistical analysis):
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/out_of_range.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/out_of_range.jpg)
 
 
 ### Delta of time between two items (bottels\box\pallet) (statistical analysis):
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/total_sum_delta_per_hour.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/total_sum_delta_per_hour.jpg)
 
 
 ### Weight per sample (bottels\box\pallet) (statistical analysis):
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/weight_check_Box.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/weight_check_Box.jpg)
 
 
 ### Total sum & count per hour (bottels\box\pallet) (statistical analysis):
 
-![alt text](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_total_sum_and_count.jpg)
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Box_total_sum_and_count.jpg)
+
+# next goal:
+
+![image](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg)<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="100" height="100">
+
+
+
+
