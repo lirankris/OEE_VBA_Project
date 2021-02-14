@@ -65,9 +65,9 @@ In the future I will add vision sysytem status and 2D camera check.
 
 # next goal:
 
-<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500"> <img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500">
+<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500"> 
+<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Bottels_new.jpg" width="800" height="500">
+<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/select_new.jpg" width="800" height="500">
+<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/userInsert_new.jpg" width="800" height="500">
 
-<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500">
-<img src="https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Main_new.jpg" width="800" height="500">
-https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/Bottels_new.jpg
 
