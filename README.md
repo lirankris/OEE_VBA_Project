@@ -8,6 +8,8 @@ Every division have its attributs (diffrent pace, substance type etc.)
 
 In the future I will add vision sysytem status and 2D camera check.
 
+![caption](https://github.com/lirankris/OEE_VBA_Project/blob/main/Photos/VBA%20.1%20%E2%80%90%20Made%20with%20Clipchamp.gif)
+
 # check list:
 
 - [x] Beta file.
