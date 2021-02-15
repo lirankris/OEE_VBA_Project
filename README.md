@@ -14,6 +14,8 @@ In the future I will add vision sysytem status and 2D camera check.
 - [ ] Insert New User.
 - [ ] Material Name.
 - [ ] Pdf generator.
+- [ ] Error handling.
+- [ ] Logging framework.
 - [ ] UI/UX.
 
 # Main sheet:
